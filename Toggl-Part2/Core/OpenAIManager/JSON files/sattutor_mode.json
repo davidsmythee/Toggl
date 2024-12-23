@@ -1,0 +1,445 @@
+[
+    {
+        "question": "What is the primary role of enzymes in biological systems?",
+        "answer_choices": [
+            "To serve as a source of energy.",
+            "To catalyze chemical reactions by lowering activation energy.",
+            "To provide structural support to cells.",
+            "To regulate the synthesis of nucleotides."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Enzymes are biological catalysts that speed up chemical reactions by lowering the activation energy required."
+    },
+    {
+        "question": "Which part of the brain is primarily responsible for regulating balance and coordination?",
+        "answer_choices": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla Oblongata",
+            "Hypothalamus"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The cerebellum is responsible for coordinating voluntary movements and maintaining balance and posture."
+    },
+    {
+        "question": "What is the primary function of hemoglobin in the blood?",
+        "answer_choices": [
+            "To transport oxygen to tissues.",
+            "To initiate blood clotting.",
+            "To fight infections as part of the immune response.",
+            "To maintain osmotic balance in the bloodstream."
+        ],
+        "correct_answer_index": 0,
+        "explanation": "Hemoglobin is a protein in red blood cells that binds oxygen in the lungs and transports it to tissues throughout the body."
+    },
+    {
+        "question": "What is the basic structural and functional unit of the kidney?",
+        "answer_choices": [
+            "Glomerulus",
+            "Nephron",
+            "Loop of Henle",
+            "Collecting Duct"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The nephron is the basic structural and functional unit of the kidney, responsible for filtering blood and forming urine."
+    },
+    {
+        "question": "What is the role of the sarcoplasmic reticulum in muscle contraction?",
+        "answer_choices": [
+            "It generates action potentials to stimulate contraction.",
+            "It stores and releases calcium ions required for muscle contraction.",
+            "It synthesizes ATP for energy during contraction.",
+            "It provides structural support to the myofibrils."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The sarcoplasmic reticulum stores calcium ions and releases them during muscle contraction to initiate actin-myosin interactions."
+    },
+    {
+        "question": "Which of the following is a neurotransmitter that is primarily inhibitory in the central nervous system?",
+        "answer_choices": [
+            "Acetylcholine",
+            "Glutamate",
+            "GABA",
+            "Serotonin"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "GABA (gamma-aminobutyric acid) is the primary inhibitory neurotransmitter in the CNS, helping to reduce neuronal excitability."
+    },
+    {
+        "question": "What is the main function of bile in the digestive system?",
+        "answer_choices": [
+            "To digest proteins into amino acids.",
+            "To emulsify fats, aiding in their digestion.",
+            "To neutralize stomach acid in the small intestine.",
+            "To break down carbohydrates into monosaccharides."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Bile, produced by the liver, emulsifies fats to increase their surface area for enzymatic digestion by lipase."
+    },
+    {
+        "question": "What type of bond links amino acids together in a protein?",
+        "answer_choices": [
+            "Hydrogen bonds",
+            "Ionic bonds",
+            "Peptide bonds",
+            "Phosphodiester bonds"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Peptide bonds link amino acids in a protein, formed through a dehydration synthesis reaction between the carboxyl group of one amino acid and the amino group of another."
+    },
+    {
+        "question": "Which stage of cellular respiration produces the most ATP?",
+        "answer_choices": [
+            "Glycolysis",
+            "Citric Acid Cycle (Krebs Cycle)",
+            "Electron Transport Chain and Oxidative Phosphorylation",
+            "Fermentation"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "The electron transport chain and oxidative phosphorylation produce the most ATP in cellular respiration, generating around 32-34 ATP molecules per glucose molecule."
+    },
+    {
+        "question": "What is the primary function of myelin sheath in neurons?",
+        "answer_choices": [
+            "To generate action potentials.",
+            "To insulate the axon and increase the speed of impulse transmission.",
+            "To synthesize neurotransmitters for synaptic transmission.",
+            "To provide structural support to dendrites."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The myelin sheath insulates the axon of neurons and allows for faster transmission of electrical impulses along the axon."
+    },
+    {
+        "question": "What is the primary function of the liver in metabolism?",
+        "answer_choices": [
+            "To produce insulin.",
+            "To synthesize and regulate bile.",
+            "To detoxify harmful substances and regulate glucose levels.",
+            "To store minerals and vitamins."
+        ],
+        "correct_answer_index": 2,
+        "explanation": "The liver detoxifies harmful substances, regulates blood glucose levels, and plays a key role in metabolizing nutrients and drugs."
+    },
+    {
+        "question": "Which type of immunity involves antibodies circulating in the blood?",
+        "answer_choices": [
+            "Cell-mediated immunity",
+            "Innate immunity",
+            "Humoral immunity",
+            "Passive immunity"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Humoral immunity is mediated by B cells that produce antibodies to neutralize pathogens in the bloodstream."
+    },
+    {
+        "question": "What structure in the human eye is responsible for focusing light on the retina?",
+        "answer_choices": [
+            "Cornea",
+            "Lens",
+            "Iris",
+            "Optic nerve"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The lens adjusts its shape to focus light directly on the retina, allowing for clear vision."
+    },
+    {
+        "question": "Which hormone is secreted by the adrenal medulla during a 'fight or flight' response?",
+        "answer_choices": [
+            "Cortisol",
+            "Aldosterone",
+            "Epinephrine",
+            "Insulin"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Epinephrine (adrenaline) is released by the adrenal medulla to prepare the body for a 'fight or flight' response by increasing heart rate and energy availability."
+    },
+    {
+        "question": "What is the primary structural difference between DNA and RNA?",
+        "answer_choices": [
+            "DNA has a double helix structure, while RNA is single-stranded.",
+            "DNA contains uracil, while RNA contains thymine.",
+            "RNA is made of deoxyribose sugar, while DNA is made of ribose sugar.",
+            "RNA cannot form hydrogen bonds, while DNA can."
+        ],
+        "correct_answer_index": 0,
+        "explanation": "DNA is double-stranded and forms a helical structure, while RNA is typically single-stranded."
+    },
+    {
+        "question": "What is the role of the small intestine in digestion?",
+        "answer_choices": [
+            "To absorb nutrients and complete chemical digestion.",
+            "To mechanically digest food.",
+            "To detoxify ingested substances.",
+            "To store waste products before excretion."
+        ],
+        "correct_answer_index": 0,
+        "explanation": "The small intestine is responsible for absorbing nutrients from digested food and completing chemical digestion with enzymes."
+    },
+    {
+        "question": "Which type of muscle tissue is involuntary and striated?",
+        "answer_choices": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Ligament tissue"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Cardiac muscle is involuntary and striated, found only in the walls of the heart."
+    },
+    {
+        "question": "What is the function of the glomerulus in the nephron?",
+        "answer_choices": [
+            "Reabsorption of water and solutes.",
+            "Filtration of blood to form urine.",
+            "Secretion of waste products into urine.",
+            "Concentration of urine by removing water."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The glomerulus filters blood, allowing water and small solutes to pass into the nephron while retaining larger molecules like proteins."
+    },
+    {
+        "question": "What is the role of the hypothalamus in the endocrine system?",
+        "answer_choices": [
+            "To produce insulin for glucose regulation.",
+            "To control the secretion of hormones from the pituitary gland.",
+            "To stimulate calcium release from bones.",
+            "To regulate electrolyte balance in the kidneys."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The hypothalamus regulates the pituitary gland's secretion of hormones, playing a central role in maintaining homeostasis."
+    },
+    {
+        "question": "Which macromolecule serves as the main source of energy for cellular activities?",
+        "answer_choices": [
+            "Proteins",
+            "Lipids",
+            "Carbohydrates",
+            "Nucleic acids"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Carbohydrates are the primary energy source for cellular activities, as they are quickly metabolized into glucose."
+    },
+    {
+        "question": "What is the difference between an exon and an intron in eukaryotic genes?",
+        "answer_choices": [
+            "Exons are removed during RNA splicing, while introns are retained.",
+            "Exons code for proteins, while introns are non-coding regions.",
+            "Introns are part of the DNA sequence, while exons are not.",
+            "Exons regulate gene expression, while introns do not."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Exons are coding regions that are translated into proteins, whereas introns are non-coding regions removed during RNA splicing."
+    },
+    {
+        "question": "What is the role of antidiuretic hormone (ADH) in the body?",
+        "answer_choices": [
+            "To increase water reabsorption in the kidneys.",
+            "To stimulate the release of bile.",
+            "To promote sodium excretion.",
+            "To regulate blood glucose levels."
+        ],
+        "correct_answer_index": 0,
+        "explanation": "ADH increases water reabsorption in the kidneys, helping to concentrate urine and maintain fluid balance."
+    },
+    {
+        "question": "What is the function of myoglobin in muscle cells?",
+        "answer_choices": [
+            "To store and release oxygen.",
+            "To transport oxygen in the bloodstream.",
+            "To synthesize ATP during contraction.",
+            "To bind calcium ions for contraction."
+        ],
+        "correct_answer_index": 0,
+        "explanation": "Myoglobin stores oxygen in muscle cells, releasing it when needed during muscle contraction."
+    },
+    {
+        "question": "Which type of bond holds the two strands of DNA together?",
+        "answer_choices": [
+            "Ionic bonds",
+            "Covalent bonds",
+            "Hydrogen bonds",
+            "Peptide bonds"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Hydrogen bonds between complementary base pairs hold the two strands of DNA together."
+    },
+    {
+        "question": "What is the main function of the alveoli in the respiratory system?",
+        "answer_choices": [
+            "To humidify inhaled air.",
+            "To exchange oxygen and carbon dioxide with the blood.",
+            "To regulate the pH of blood.",
+            "To trap foreign particles during inhalation."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Alveoli are tiny air sacs in the lungs where oxygen and carbon dioxide are exchanged with the blood."
+    },
+    {
+        "question": "Which component of the cell membrane contributes most to its fluidity?",
+        "answer_choices": [
+            "Cholesterol",
+            "Phospholipids",
+            "Proteins",
+            "Glycoproteins"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "Cholesterol stabilizes the membrane at high temperatures and prevents it from becoming too rigid at low temperatures, enhancing fluidity."
+    },
+    {
+        "question": "Which organelle is responsible for packaging and modifying proteins for secretion?",
+        "answer_choices": [
+            "Ribosome",
+            "Golgi apparatus",
+            "Endoplasmic reticulum",
+            "Lysosome"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Golgi apparatus modifies, packages, and sorts proteins for secretion or delivery to other cellular locations."
+    },
+    {
+        "question": "What is the primary neurotransmitter used at neuromuscular junctions?",
+        "answer_choices": [
+            "Dopamine",
+            "Serotonin",
+            "Acetylcholine",
+            "GABA"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Acetylcholine is the neurotransmitter released at neuromuscular junctions to stimulate muscle contraction."
+    },
+    {
+        "question": "Which part of the nephron is primarily responsible for reabsorbing glucose and amino acids?",
+        "answer_choices": [
+            "Glomerulus",
+            "Proximal convoluted tubule",
+            "Loop of Henle",
+            "Distal convoluted tubule"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The proximal convoluted tubule reabsorbs nutrients like glucose and amino acids from the filtrate."
+    },
+    {
+        "question": "Which type of epithelial tissue lines the alveoli of the lungs?",
+        "answer_choices": [
+            "Simple squamous epithelium",
+            "Stratified squamous epithelium",
+            "Simple columnar epithelium",
+            "Pseudostratified epithelium"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "Simple squamous epithelium lines the alveoli to facilitate efficient gas exchange."
+    },
+    {
+        "question": "What is the primary function of tRNA during translation?",
+        "answer_choices": [
+            "To synthesize proteins by linking amino acids.",
+            "To carry amino acids to the ribosome.",
+            "To transcribe DNA into RNA.",
+            "To initiate the assembly of ribosomes."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Transfer RNA (tRNA) carries specific amino acids to the ribosome during protein synthesis, matching its anticodon to the mRNA codon."
+    },
+    {
+        "question": "Which part of the brain regulates the autonomic nervous system?",
+        "answer_choices": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla oblongata",
+            "Hypothalamus"
+        ],
+        "correct_answer_index": 3,
+        "explanation": "The hypothalamus regulates the autonomic nervous system, including functions like body temperature, hunger, and thirst."
+    },
+    {
+        "question": "Which process in the human body produces lactate as a byproduct?",
+        "answer_choices": [
+            "Oxidative phosphorylation",
+            "Aerobic respiration",
+            "Anaerobic glycolysis",
+            "Beta-oxidation"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Anaerobic glycolysis produces lactate as a byproduct when oxygen is insufficient for aerobic respiration."
+    },
+    {
+        "question": "Which hormone stimulates the production of red blood cells in bone marrow?",
+        "answer_choices": [
+            "Insulin",
+            "Erythropoietin",
+            "Thyroxine",
+            "Cortisol"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Erythropoietin, secreted by the kidneys, stimulates red blood cell production in response to low oxygen levels."
+    },
+    {
+        "question": "What is the role of telomeres in chromosomes?",
+        "answer_choices": [
+            "To encode proteins necessary for cell division.",
+            "To protect the ends of chromosomes from degradation.",
+            "To initiate DNA replication.",
+            "To promote recombination during meiosis."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Telomeres protect the ends of chromosomes from degradation and prevent the loss of genetic information during replication."
+    },
+    {
+        "question": "What type of immunity is provided by vaccines?",
+        "answer_choices": [
+            "Innate immunity",
+            "Active artificial immunity",
+            "Passive natural immunity",
+            "Passive artificial immunity"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Vaccines stimulate the immune system to develop active artificial immunity by producing memory cells."
+    },
+    {
+        "question": "Which phase of mitosis involves the chromosomes aligning at the equatorial plate?",
+        "answer_choices": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "During metaphase, chromosomes align at the equatorial plate, preparing for separation."
+    },
+    {
+        "question": "Which organ produces bile for digestion?",
+        "answer_choices": [
+            "Stomach",
+            "Gallbladder",
+            "Liver",
+            "Pancreas"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "The liver produces bile, which is stored in the gallbladder and used to emulsify fats during digestion."
+    },
+    {
+        "question": "What is the function of ligaments in the skeletal system?",
+        "answer_choices": [
+            "To connect bones to muscles.",
+            "To connect bones to other bones.",
+            "To produce red blood cells.",
+            "To store calcium and phosphorus."
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Ligaments connect bones to other bones, providing stability to joints."
+    },
+    {
+        "question": "What is the primary role of the sinoatrial (SA) node in the heart?",
+        "answer_choices": [
+            "To pump oxygenated blood to the body.",
+            "To regulate blood pressure.",
+            "To act as the natural pacemaker of the heart.",
+            "To initiate the contraction of ventricles."
+        ],
+        "correct_answer_index": 2,
+        "explanation": "The sinoatrial (SA) node is the heart's natural pacemaker, initiating electrical impulses that set the rhythm of the heartbeat."
+    }
+]
+
+
+

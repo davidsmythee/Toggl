@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "What are the three main financial statements, and what do they show?",
+        "choices": [
+            "Cash Flow Statement, Tax Statement, and Income Report; they show tax liability, profitability, and cash flow.",
+            "Earnings Report, Statement of Financial Health, and Expense Sheet; they show earnings, health, and expenditures.",
+            "Income Statement, Balance Sheet, and Statement of Cash Flows; they show profitability, financial position, and cash flow, respectively.",
+            "Profit Statement, Equity Sheet, and Statement of Earnings; they show revenue, retained earnings, and profits."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "The three main financial statements are the Income Statement, which shows profitability; the Balance Sheet, which shows the financial position; and the Statement of Cash Flows, which shows cash inflows and outflows."
+    },
+    {
+        "question": "What is enterprise value (EV), and how is it calculated?",
+        "choices": [
+            "EV = Equity + Debt + Retained Earnings.",
+            "EV = Assets + Liabilities - Market Capitalization.",
+            "EV = Market Capitalization + Debt - Cash.",
+            "EV = Market Capitalization + Equity - Liabilities."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Enterprise Value (EV) is calculated as Market Capitalization + Debt - Cash. It represents the total value of a company, including debt and excluding cash."
+    },
+    {
+        "question": "Technical investment banking question #3: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #4: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #5: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #6: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #7: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #8: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #9: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #10: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #11: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #12: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #13: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #14: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #15: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #16: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #17: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #18: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #19: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #20: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #21: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #22: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #23: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #24: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #25: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #26: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #27: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #28: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #29: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #30: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #31: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #32: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #33: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #34: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #35: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #36: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #37: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #38: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #39: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #40: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #41: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #42: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #43: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #44: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #45: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #46: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #47: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #48: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #49: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #50: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #51: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #52: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #53: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #54: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #55: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #56: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #57: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #58: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #59: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #60: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #61: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #62: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #63: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #64: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #65: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #66: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #67: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #68: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #69: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #70: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #71: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #72: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #73: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #74: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #75: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #76: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #77: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #78: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #79: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #80: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #81: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #82: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #83: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #84: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #85: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #86: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #87: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #88: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #89: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #90: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #91: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #92: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #93: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #94: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #95: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #96: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds.",
+            "To distribute dividends to shareholders."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #97: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To distribute dividends to shareholders.",
+            "To reduce operational expenses.",
+            "To retain ownership control while raising funds.",
+            "To avoid showing debt on the Balance Sheet."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #98: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #99: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To avoid showing debt on the Balance Sheet.",
+            "To distribute dividends to shareholders.",
+            "To retain ownership control while raising funds.",
+            "To reduce operational expenses."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    },
+    {
+        "question": "Technical investment banking question #100: Why might a company issue bonds instead of equity?",
+        "choices": [
+            "To reduce operational expenses.",
+            "To distribute dividends to shareholders.",
+            "To avoid showing debt on the Balance Sheet.",
+            "To retain ownership control while raising funds."
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Companies issue bonds to raise capital without diluting ownership. This allows them to maintain control while meeting financing needs."
+    }
+]

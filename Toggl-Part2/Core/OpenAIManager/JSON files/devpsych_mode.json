@@ -1,0 +1,555 @@
+[
+    {
+        "question": "Which word most closely matches the meaning of 'benevolent'?",
+        "choices": [
+            "Hostile",
+            "Generous",
+            "Neutral",
+            "Ambitious"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Benevolent' means kind or generous, often describing someone who acts with goodwill."
+    },
+    {
+        "question": "Choose the sentence that is grammatically correct.",
+        "choices": [
+            "Each of the students have their own locker.",
+            "The teacher, along with her assistants, were in the classroom.",
+            "Neither of the options is appealing to me.",
+            "The players or the coach are responsible for the delay."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "The subject-verb agreement in 'Neither of the options is appealing to me' is correct, as 'neither' is singular."
+    },
+    {
+        "question": "Which of the following best replaces the underlined word for clarity and style? 'The scientist was trying to figure out what the data meant.'",
+        "choices": [
+            "Analyze",
+            "Determine",
+            "Understand",
+            "Discover"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Determine' is the most precise and formal choice to replace 'figure out' in this context."
+    },
+    {
+        "question": "If 5x - 7 = 18, what is the value of x?",
+        "choices": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Add 7 to both sides to get 5x = 25. Then divide by 5 to find x = 9."
+    },
+    {
+        "question": "What does the word 'catalyst' most nearly mean in this context? 'Her speech was the catalyst for widespread change in the organization.'",
+        "choices": [
+            "Obstacle",
+            "Trigger",
+            "Hindrance",
+            "Deterrent"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Catalyst' means something that triggers or accelerates a change or event."
+    },
+    {
+        "question": "Choose the best option to correct the error: 'Neither the manager nor the employees is responsible for the mistake.'",
+        "choices": [
+            "Change 'is' to 'are'.",
+            "Replace 'Neither' with 'Either'.",
+            "Replace 'the' with 'a'.",
+            "No change needed."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Since 'employees' is plural, the verb should also be plural: 'Neither the manager nor the employees are responsible for the mistake.'"
+    },
+    {
+        "question": "Which sentence uses a semicolon correctly?",
+        "choices": [
+            "I have a big test tomorrow; therefore I can't go to the party.",
+            "I saw a bird; that flew away quickly.",
+            "My favorite colors are red; blue and green.",
+            "The weather is cold; so I decided to wear a jacket."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "The semicolon in 'I have a big test tomorrow; therefore I can't go to the party.' is correctly used to link two independent clauses."
+    },
+    {
+        "question": "What is the value of y if 2y + 3 = 11?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Subtract 3 from both sides to get 2y = 8, then divide by 2 to find y = 4."
+    },
+    {
+        "question": "Which of the following sentences uses the correct word form?",
+        "choices": [
+            "The team played good during the tournament.",
+            "She completed the task quick and efficiently.",
+            "He ran faster than anyone else in the race.",
+            "This is the most unique painting I have ever seen."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'He ran faster than anyone else in the race.' uses the correct comparative form 'faster.'"
+    },
+    {
+        "question": "Which transition best connects the ideas in this sentence? 'The experiment yielded surprising results. _______, further tests are needed to confirm the findings.'",
+        "choices": [
+            "However",
+            "For example",
+            "Consequently",
+            "Meanwhile"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "'However' indicates a contrast, showing that despite the surprising results, further tests are needed."
+    },
+    {
+        "question": "What does the word 'prolific' most nearly mean in this context? 'The author is a prolific writer, publishing several novels each year.'",
+        "choices": [
+            "Rare",
+            "Fruitful",
+            "Unskilled",
+            "Careless"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Prolific' means highly productive or fruitful, especially in creative work."
+    },
+    {
+        "question": "Which of the following sentences contains no grammatical errors?",
+        "choices": [
+            "Everyone should bring their own lunch to the picnic.",
+            "Neither of the options are available at this time.",
+            "Each of the dogs has its own bed.",
+            "The team have decided to cancel the match."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "The sentence 'Each of the dogs has its own bed.' correctly uses singular agreement with 'each.'"
+    },
+    {
+        "question": "What is the solution to the equation 3x + 4 = 16?",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Subtract 4 from both sides to get 3x = 12, then divide by 3 to find x = 5."
+    },
+    {
+        "question": "Which word best completes the sentence? 'Her ______ approach to the problem impressed the entire team.'",
+        "choices": [
+            "convoluted",
+            "innovative",
+            "redundant",
+            "dismissive"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Innovative' fits best, describing an approach that is creative and impressive."
+    },
+    {
+        "question": "Which sentence uses parallel structure correctly?",
+        "choices": [
+            "The job requires strong communication skills, managing time effectively, and to work independently.",
+            "She enjoys swimming, hiking, and to ride her bike.",
+            "He is known for being punctual, responsible, and hardworking.",
+            "We need to clean the house, buying groceries, and cook dinner."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'He is known for being punctual, responsible, and hardworking.' uses parallel structure by keeping adjectives in the same form."
+    },
+    {
+        "question": "Which word most nearly matches the meaning of 'ambiguous'?",
+        "choices": [
+            "Clear",
+            "Confusing",
+            "Exact",
+            "Definitive"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Ambiguous' means unclear or open to more than one interpretation."
+    },
+    {
+        "question": "What is the solution to the inequality 2x - 5 > 7?",
+        "choices": [
+            "x > 6",
+            "x < 6",
+            "x > 1",
+            "x < 1"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Add 5 to both sides to get 2x > 12, then divide by 2 to find x > 6."
+    },
+    {
+        "question": "Which of the following best corrects this sentence? 'The team is winning despite of the challenges they faced earlier.'",
+        "choices": [
+            "Replace 'is' with 'was'.",
+            "Replace 'despite of' with 'in spite'.",
+            "Replace 'despite of' with 'despite'.",
+            "No change needed."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Despite' is the correct usage; 'despite of' is not grammatically correct."
+    },
+    {
+        "question": "What is the sum of the angles in a triangle?",
+        "choices": [
+            "90 degrees",
+            "180 degrees",
+            "360 degrees",
+            "270 degrees"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "The sum of the angles in a triangle is always 180 degrees."
+    },
+    {
+        "question": "What does the word 'mitigate' most nearly mean in this context? 'The policy was designed to mitigate the risks of data breaches.'",
+        "choices": [
+            "Exacerbate",
+            "Reduce",
+            "Eliminate",
+            "Complicate"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Mitigate' means to reduce the severity or seriousness of something."
+    },
+    {
+        "question": "Which of the following sentences uses a colon correctly?",
+        "choices": [
+            "The store offers: fresh fruit, vegetables, and baked goods.",
+            "She only brought three items: her wallet, keys, and phone.",
+            "He asked: 'Can you help me with this?'",
+            "We visited several cities: including Paris, Rome, and Madrid."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Colons are used to introduce a list or explanation; 'She only brought three items: her wallet, keys, and phone.' is correct."
+    },
+    {
+        "question": "If x + 3 = 9, what is the value of x?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Subtract 3 from both sides to get x = 6."
+    },
+    {
+        "question": "Which word most nearly matches the meaning of 'ephemeral'?",
+        "choices": [
+            "Temporary",
+            "Permanent",
+            "Significant",
+            "Unchanging"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "'Ephemeral' means lasting for a very short time."
+    },
+    {
+        "question": "What is the value of y in the equation y/2 = 7?",
+        "choices": [
+            "3.5",
+            "7",
+            "12",
+            "14"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Multiply both sides by 2 to find y = 14."
+    },
+    {
+        "question": "Which sentence has no grammatical errors?",
+        "choices": [
+            "The cat, who loves to sleep, is laying on the couch.",
+            "Neither of the answers are correct.",
+            "He quickly ran down the stairs and into the garden.",
+            "Everyone brought their own books to the meeting."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'He quickly ran down the stairs and into the garden.' is grammatically correct."
+    },
+    {
+        "question": "What does the word 'resilient' most nearly mean in this context? 'The community proved to be resilient after the disaster.'",
+        "choices": [
+            "Fragile",
+            "Adaptable",
+            "Resistant",
+            "Recovering"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Resilient' means being able to recover quickly from challenges or adversity."
+    },
+    {
+        "question": "Which is a correct revision of the sentence? 'The car that had been parked for weeks was covered in dust.'",
+        "choices": [
+            "The car, which had been parked for weeks, was covered in dust.",
+            "The car who had been parked for weeks was covered in dust.",
+            "The car what had been parked for weeks was covered in dust.",
+            "The car that had been parked for weeks, it was covered in dust."
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Using 'which' with appropriate commas creates a clear, correct sentence."
+    },
+    {
+        "question": "What is the slope of a line that passes through the points (1, 2) and (3, 6)?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "The slope is calculated as (6 - 2) / (3 - 1) = 4 / 2 = 2."
+    },
+    {
+        "question": "What is the definition of 'ubiquitous'?",
+        "choices": [
+            "Rare",
+            "Everywhere",
+            "Complicated",
+            "Exclusive"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Ubiquitous' means present or existing everywhere."
+    },
+    {
+        "question": "Which word best completes the sentence? 'The teacher’s ______ instructions made it easy to understand the assignment.'",
+        "choices": [
+            "ambiguous",
+            "unclear",
+            "explicit",
+            "tentative"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Explicit' means clear and detailed, making it the best fit for the sentence."
+    },
+    {
+        "question": "Which word most nearly matches the meaning of 'audacious'?",
+        "choices": [
+            "Timid",
+            "Cautious",
+            "Bold",
+            "Indifferent"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Audacious' means bold, daring, or fearless, often in a surprising way."
+    },
+    {
+        "question": "Which sentence is free of errors?",
+        "choices": [
+            "He don't know where the library is.",
+            "She and I went to the park yesterday.",
+            "Everyone are waiting for the bus to arrive.",
+            "The dogs barks loudly every morning."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'She and I went to the park yesterday.' is grammatically correct."
+    },
+    {
+        "question": "If 4x + 3 = 15, what is the value of x?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Subtract 3 from both sides to get 4x = 12, then divide by 4 to find x = 3."
+    },
+    {
+        "question": "What does the word 'meticulous' most nearly mean?",
+        "choices": [
+            "Careless",
+            "Thorough",
+            "Hasty",
+            "Impartial"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Meticulous' means showing great attention to detail or being very thorough."
+    },
+    {
+        "question": "Which of the following sentences uses 'its' correctly?",
+        "choices": [
+            "Its going to be a great day.",
+            "The dog wagged its tail happily.",
+            "It's tail was wagging enthusiastically.",
+            "Its' collar is bright red."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'The dog wagged its tail happily.' correctly uses 'its' as a possessive pronoun."
+    },
+    {
+        "question": "Which value of x satisfies the equation 2x - 4 = 10?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Add 4 to both sides to get 2x = 14, then divide by 2 to find x = 8."
+    },
+    {
+        "question": "Which word best completes the sentence? 'The novel’s ______ themes resonated deeply with readers of all ages.'",
+        "choices": [
+            "ambiguous",
+            "universal",
+            "esoteric",
+            "tenuous"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Universal' means applicable to all, making it the best fit for the sentence."
+    },
+    {
+        "question": "Which sentence demonstrates correct subject-verb agreement?",
+        "choices": [
+            "The team are excited about their victory.",
+            "Each of the students have completed their projects.",
+            "Neither of the options was appealing to me.",
+            "The group of athletes were practicing in the field."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Neither of the options was appealing to me.' uses correct singular agreement."
+    },
+    {
+        "question": "What is the solution to the inequality 5x - 3 < 12?",
+        "choices": [
+            "x < 3",
+            "x > 3",
+            "x < 5",
+            "x > 5"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Add 3 to both sides to get 5x < 15, then divide by 5 to find x < 3."
+    },
+    {
+        "question": "What does the word 'voracious' most nearly mean?",
+        "choices": [
+            "Hungry",
+            "Slow",
+            "Incapable",
+            "Excessive"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "'Voracious' means having a great appetite, especially for food or knowledge."
+    },
+    {
+        "question": "What is the slope of a line passing through the points (2, 3) and (4, 7)?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "The slope is (7 - 3) / (4 - 2) = 4 / 2 = 2."
+    },
+    {
+        "question": "Which word most closely matches the meaning of 'antithesis'?",
+        "choices": [
+            "Similarity",
+            "Contrast",
+            "Summary",
+            "Explanation"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Antithesis' means a direct contrast or opposition."
+    },
+    {
+        "question": "Which word best completes the sentence? 'The scientist’s discovery was so ______ that it revolutionized the field of genetics.'",
+        "choices": [
+            "trivial",
+            "insignificant",
+            "profound",
+            "complicated"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Profound' means very significant or impactful, making it the best choice for the sentence."
+    },
+    {
+        "question": "Which sentence uses the correct form of 'affect' or 'effect'?",
+        "choices": [
+            "The movie had a lasting affect on him.",
+            "The policy changes will effect the entire community.",
+            "The storm will affect the coastal regions significantly.",
+            "Her smile had a positive affect on the group."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Affect' is used as a verb to describe influence; 'The storm will affect the coastal regions significantly.' is correct."
+    },
+    {
+        "question": "Which of the following is equivalent to 3(x + 4)?",
+        "choices": [
+            "3x + 4",
+            "3x + 12",
+            "3x + 7",
+            "3x - 4"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Distribute 3 to both terms in the parentheses to get 3x + 12."
+    },
+    {
+        "question": "What does the word 'candid' most nearly mean?",
+        "choices": [
+            "Deceptive",
+            "Honest",
+            "Reserved",
+            "Indirect"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Candid' means truthful and straightforward."
+    },
+    {
+        "question": "What is the solution to the equation x/4 = 8?",
+        "choices": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Multiply both sides by 4 to find x = 32."
+    },
+    {
+        "question": "Which word best completes the sentence? 'The debate became so ______ that the moderator had to intervene.'",
+        "choices": [
+            "congenial",
+            "hostile",
+            "apathetic",
+            "amicable"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Hostile' means unfriendly or aggressive, making it the best fit for the sentence."
+    },
+    {
+        "question": "What does the word 'nuance' most nearly mean?",
+        "choices": [
+            "Simplicity",
+            "Subtlety",
+            "Clarity",
+            "Intensity"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Nuance' refers to a subtle or slight distinction or variation."
+    },
+    {
+        "question": "Which of the following uses the semicolon correctly?",
+        "choices": [
+            "We visited several cities; including Paris, Rome, and Madrid.",
+            "The sky was clear; we decided to go hiking.",
+            "He brought his wallet; keys and phone.",
+            "I saw a bird; that flew away quickly."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Semicolons connect two independent clauses; 'The sky was clear; we decided to go hiking.' is correct."
+    }
+]
+
+
+

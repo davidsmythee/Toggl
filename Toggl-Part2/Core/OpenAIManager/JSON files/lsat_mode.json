@@ -1,0 +1,69 @@
+[
+  {
+    "question": "Which of the following most accurately describes the flaw in the reasoning of the argument?",
+    "choices": [
+      "The argument assumes that because two events occur together, one must cause the other.",
+      "The argument relies on an unproven assumption that the author explicitly states.",
+      "The argument confuses a necessary condition with a sufficient condition.",
+      "The argument uses terms inconsistently, leading to ambiguity in the conclusion."
+    ],
+    "correct_index": 0,
+    "explanation": "The argument's flaw is the assumption that correlation implies causation. This reasoning error is common when two events occur together, but the argument fails to consider alternative explanations or coincidence."
+  },
+  {
+    "question": "A law professor claims: 'If all citizens are required to know the law, then ignorance of the law should not be an excuse for illegal actions.' Which of the following would weaken the professor's argument?",
+    "choices": [
+      "Many citizens find it difficult to understand the law even after studying it.",
+      "Some citizens claim ignorance of the law as an excuse for illegal actions.",
+      "Ignorance of the law has historically been accepted as a mitigating factor in legal cases.",
+      "The complexity of the law varies significantly across jurisdictions."
+    ],
+    "correct_index": 2,
+    "explanation": "The professor's argument is weakened if ignorance of the law is a widely accepted mitigating factor in legal cases. This historical precedent suggests that ignorance may, in some cases, be a valid excuse, challenging the professor's conclusion."
+  },
+  {
+    "question": "A study claims that people who exercise regularly are less likely to develop chronic illnesses. Which of the following, if true, would most seriously weaken the study's conclusion?",
+    "choices": [
+      "Chronic illnesses are more prevalent in older populations, who exercise less frequently.",
+      "The study does not account for the dietary habits of the participants.",
+      "Many of the study participants were already healthy before they began exercising regularly.",
+      "People who exercise regularly tend to have better access to healthcare than those who do not."
+    ],
+    "correct_index": 3,
+    "explanation": "The study's conclusion is undermined if access to healthcare, rather than exercise, is the key factor reducing chronic illnesses. This suggests a confounding variable is responsible for the observed outcome."
+  },
+  {
+    "question": "The city's plan to reduce traffic congestion involves implementing tolls on all major highways. Which of the following is an assumption required by the city's plan?",
+    "choices": [
+      "Tolls will encourage a significant number of drivers to use alternative routes.",
+      "Public transportation is a viable alternative for most commuters.",
+      "Traffic congestion is primarily caused by high volumes of private vehicles.",
+      "The revenue generated from the tolls will offset their implementation costs."
+    ],
+    "correct_index": 0,
+    "explanation": "The success of the city's plan hinges on the assumption that tolls will alter driver behavior by encouraging them to use alternative routes or modes of transportation, thereby reducing congestion."
+  },
+  {
+    "question": "In a group of 6 people, there are three pairs of friends who refuse to sit next to each other. How many valid seating arrangements are there?",
+    "choices": [
+      "48",
+      "36",
+      "24",
+      "18"
+    ],
+    "correct_index": 2,
+    "explanation": "This problem involves restricted permutations. By systematically excluding arrangements where friends sit next to each other, the valid arrangements can be calculated as 24 using combinatorial methods."
+  },
+  {
+    "question": "A newspaper editorial argues: 'Since the city has invested heavily in public parks, citizens should make use of these facilities more frequently.' The reasoning in the editorial is most vulnerable to which of the following criticisms?",
+    "choices": [
+      "It assumes that all citizens have equal access to the public parks.",
+      "It concludes that an outcome ought to occur because of the city's actions, without further support.",
+      "It overlooks the possibility that citizens may have legitimate reasons for not using the parks.",
+      "It confuses the benefits of public parks with their costs."
+    ],
+    "correct_index": 1,
+    "explanation": "The editorial's reasoning is flawed because it assumes that the city's investment alone justifies a behavioral obligation for citizens, without addressing other potential considerations or barriers."
+  }
+]
+

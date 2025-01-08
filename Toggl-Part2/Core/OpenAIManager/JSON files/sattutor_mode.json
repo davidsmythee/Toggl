@@ -1,443 +1,553 @@
 [
     {
-        "question": "What is the primary role of enzymes in biological systems?",
-        "answer_choices": [
-            "To serve as a source of energy.",
-            "To catalyze chemical reactions by lowering activation energy.",
-            "To provide structural support to cells.",
-            "To regulate the synthesis of nucleotides."
+        "question": "Which word most closely matches the meaning of 'benevolent'?",
+        "choices": [
+            "Hostile",
+            "Generous",
+            "Neutral",
+            "Ambitious"
         ],
-        "correct_answer_index": 1,
-        "explanation": "Enzymes are biological catalysts that speed up chemical reactions by lowering the activation energy required."
+        "correctAnswerIndex": 1,
+        "explanation": "'Benevolent' means kind or generous, often describing someone who acts with goodwill."
     },
     {
-        "question": "Which part of the brain is primarily responsible for regulating balance and coordination?",
-        "answer_choices": [
-            "Cerebrum",
-            "Cerebellum",
-            "Medulla Oblongata",
-            "Hypothalamus"
+        "question": "Choose the sentence that is grammatically correct.",
+        "choices": [
+            "Each of the students have their own locker.",
+            "The teacher, along with her assistants, were in the classroom.",
+            "Neither of the options is appealing to me.",
+            "The players or the coach are responsible for the delay."
         ],
-        "correct_answer_index": 1,
-        "explanation": "The cerebellum is responsible for coordinating voluntary movements and maintaining balance and posture."
+        "correctAnswerIndex": 2,
+        "explanation": "The subject-verb agreement in 'Neither of the options is appealing to me' is correct, as 'neither' is singular."
     },
     {
-        "question": "What is the primary function of hemoglobin in the blood?",
-        "answer_choices": [
-            "To transport oxygen to tissues.",
-            "To initiate blood clotting.",
-            "To fight infections as part of the immune response.",
-            "To maintain osmotic balance in the bloodstream."
+        "question": "Which of the following best replaces the underlined word for clarity and style? 'The scientist was trying to figure out what the data meant.'",
+        "choices": [
+            "Analyze",
+            "Determine",
+            "Understand",
+            "Discover"
         ],
-        "correct_answer_index": 0,
-        "explanation": "Hemoglobin is a protein in red blood cells that binds oxygen in the lungs and transports it to tissues throughout the body."
+        "correctAnswerIndex": 1,
+        "explanation": "'Determine' is the most precise and formal choice to replace 'figure out' in this context."
     },
     {
-        "question": "What is the basic structural and functional unit of the kidney?",
-        "answer_choices": [
-            "Glomerulus",
-            "Nephron",
-            "Loop of Henle",
-            "Collecting Duct"
+        "question": "If 5x - 7 = 18, what is the value of x?",
+        "choices": [
+            "3",
+            "5",
+            "7",
+            "9"
         ],
-        "correct_answer_index": 1,
-        "explanation": "The nephron is the basic structural and functional unit of the kidney, responsible for filtering blood and forming urine."
+        "correctAnswerIndex": 3,
+        "explanation": "Add 7 to both sides to get 5x = 25. Then divide by 5 to find x = 9."
     },
     {
-        "question": "What is the role of the sarcoplasmic reticulum in muscle contraction?",
-        "answer_choices": [
-            "It generates action potentials to stimulate contraction.",
-            "It stores and releases calcium ions required for muscle contraction.",
-            "It synthesizes ATP for energy during contraction.",
-            "It provides structural support to the myofibrils."
+        "question": "What does the word 'catalyst' most nearly mean in this context? 'Her speech was the catalyst for widespread change in the organization.'",
+        "choices": [
+            "Obstacle",
+            "Trigger",
+            "Hindrance",
+            "Deterrent"
         ],
-        "correct_answer_index": 1,
-        "explanation": "The sarcoplasmic reticulum stores calcium ions and releases them during muscle contraction to initiate actin-myosin interactions."
+        "correctAnswerIndex": 1,
+        "explanation": "'Catalyst' means something that triggers or accelerates a change or event."
     },
     {
-        "question": "Which of the following is a neurotransmitter that is primarily inhibitory in the central nervous system?",
-        "answer_choices": [
-            "Acetylcholine",
-            "Glutamate",
-            "GABA",
-            "Serotonin"
+        "question": "Choose the best option to correct the error: 'Neither the manager nor the employees is responsible for the mistake.'",
+        "choices": [
+            "Change 'is' to 'are'.",
+            "Replace 'Neither' with 'Either'.",
+            "Replace 'the' with 'a'.",
+            "No change needed."
         ],
-        "correct_answer_index": 2,
-        "explanation": "GABA (gamma-aminobutyric acid) is the primary inhibitory neurotransmitter in the CNS, helping to reduce neuronal excitability."
+        "correctAnswerIndex": 0,
+        "explanation": "Since 'employees' is plural, the verb should also be plural: 'Neither the manager nor the employees are responsible for the mistake.'"
     },
     {
-        "question": "What is the main function of bile in the digestive system?",
-        "answer_choices": [
-            "To digest proteins into amino acids.",
-            "To emulsify fats, aiding in their digestion.",
-            "To neutralize stomach acid in the small intestine.",
-            "To break down carbohydrates into monosaccharides."
+        "question": "Which sentence uses a semicolon correctly?",
+        "choices": [
+            "I have a big test tomorrow; therefore I can't go to the party.",
+            "I saw a bird; that flew away quickly.",
+            "My favorite colors are red; blue and green.",
+            "The weather is cold; so I decided to wear a jacket."
         ],
-        "correct_answer_index": 1,
-        "explanation": "Bile, produced by the liver, emulsifies fats to increase their surface area for enzymatic digestion by lipase."
+        "correctAnswerIndex": 0,
+        "explanation": "The semicolon in 'I have a big test tomorrow; therefore I can't go to the party.' is correctly used to link two independent clauses."
     },
     {
-        "question": "What type of bond links amino acids together in a protein?",
-        "answer_choices": [
-            "Hydrogen bonds",
-            "Ionic bonds",
-            "Peptide bonds",
-            "Phosphodiester bonds"
+        "question": "What is the value of y if 2y + 3 = 11?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "correct_answer_index": 2,
-        "explanation": "Peptide bonds link amino acids in a protein, formed through a dehydration synthesis reaction between the carboxyl group of one amino acid and the amino group of another."
+        "correctAnswerIndex": 1,
+        "explanation": "Subtract 3 from both sides to get 2y = 8, then divide by 2 to find y = 4."
     },
     {
-        "question": "Which stage of cellular respiration produces the most ATP?",
-        "answer_choices": [
-            "Glycolysis",
-            "Citric Acid Cycle (Krebs Cycle)",
-            "Electron Transport Chain and Oxidative Phosphorylation",
-            "Fermentation"
+        "question": "Which of the following sentences uses the correct word form?",
+        "choices": [
+            "The team played good during the tournament.",
+            "She completed the task quick and efficiently.",
+            "He ran faster than anyone else in the race.",
+            "This is the most unique painting I have ever seen."
         ],
-        "correct_answer_index": 2,
-        "explanation": "The electron transport chain and oxidative phosphorylation produce the most ATP in cellular respiration, generating around 32-34 ATP molecules per glucose molecule."
+        "correctAnswerIndex": 2,
+        "explanation": "'He ran faster than anyone else in the race.' uses the correct comparative form 'faster.'"
     },
     {
-        "question": "What is the primary function of myelin sheath in neurons?",
-        "answer_choices": [
-            "To generate action potentials.",
-            "To insulate the axon and increase the speed of impulse transmission.",
-            "To synthesize neurotransmitters for synaptic transmission.",
-            "To provide structural support to dendrites."
+        "question": "Which transition best connects the ideas in this sentence? 'The experiment yielded surprising results. _______, further tests are needed to confirm the findings.'",
+        "choices": [
+            "However",
+            "For example",
+            "Consequently",
+            "Meanwhile"
         ],
-        "correct_answer_index": 1,
-        "explanation": "The myelin sheath insulates the axon of neurons and allows for faster transmission of electrical impulses along the axon."
+        "correctAnswerIndex": 0,
+        "explanation": "'However' indicates a contrast, showing that despite the surprising results, further tests are needed."
     },
     {
-        "question": "What is the primary function of the liver in metabolism?",
-        "answer_choices": [
-            "To produce insulin.",
-            "To synthesize and regulate bile.",
-            "To detoxify harmful substances and regulate glucose levels.",
-            "To store minerals and vitamins."
+        "question": "What does the word 'prolific' most nearly mean in this context? 'The author is a prolific writer, publishing several novels each year.'",
+        "choices": [
+            "Rare",
+            "Fruitful",
+            "Unskilled",
+            "Careless"
         ],
-        "correct_answer_index": 2,
-        "explanation": "The liver detoxifies harmful substances, regulates blood glucose levels, and plays a key role in metabolizing nutrients and drugs."
+        "correctAnswerIndex": 1,
+        "explanation": "'Prolific' means highly productive or fruitful, especially in creative work."
     },
     {
-        "question": "Which type of immunity involves antibodies circulating in the blood?",
-        "answer_choices": [
-            "Cell-mediated immunity",
-            "Innate immunity",
-            "Humoral immunity",
-            "Passive immunity"
+        "question": "Which of the following sentences contains no grammatical errors?",
+        "choices": [
+            "Everyone should bring their own lunch to the picnic.",
+            "Neither of the options are available at this time.",
+            "Each of the dogs has its own bed.",
+            "The team have decided to cancel the match."
         ],
-        "correct_answer_index": 2,
-        "explanation": "Humoral immunity is mediated by B cells that produce antibodies to neutralize pathogens in the bloodstream."
+        "correctAnswerIndex": 2,
+        "explanation": "The sentence 'Each of the dogs has its own bed.' correctly uses singular agreement with 'each.'"
     },
     {
-        "question": "What structure in the human eye is responsible for focusing light on the retina?",
-        "answer_choices": [
-            "Cornea",
-            "Lens",
-            "Iris",
-            "Optic nerve"
+        "question": "What is the solution to the equation 3x + 4 = 16?",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
         ],
-        "correct_answer_index": 1,
-        "explanation": "The lens adjusts its shape to focus light directly on the retina, allowing for clear vision."
+        "correctAnswerIndex": 1,
+        "explanation": "Subtract 4 from both sides to get 3x = 12, then divide by 3 to find x = 5."
     },
     {
-        "question": "Which hormone is secreted by the adrenal medulla during a 'fight or flight' response?",
-        "answer_choices": [
-            "Cortisol",
-            "Aldosterone",
-            "Epinephrine",
-            "Insulin"
+        "question": "Which word best completes the sentence? 'Her ______ approach to the problem impressed the entire team.'",
+        "choices": [
+            "convoluted",
+            "innovative",
+            "redundant",
+            "dismissive"
         ],
-        "correct_answer_index": 2,
-        "explanation": "Epinephrine (adrenaline) is released by the adrenal medulla to prepare the body for a 'fight or flight' response by increasing heart rate and energy availability."
+        "correctAnswerIndex": 1,
+        "explanation": "'Innovative' fits best, describing an approach that is creative and impressive."
     },
     {
-        "question": "What is the primary structural difference between DNA and RNA?",
-        "answer_choices": [
-            "DNA has a double helix structure, while RNA is single-stranded.",
-            "DNA contains uracil, while RNA contains thymine.",
-            "RNA is made of deoxyribose sugar, while DNA is made of ribose sugar.",
-            "RNA cannot form hydrogen bonds, while DNA can."
+        "question": "Which sentence uses parallel structure correctly?",
+        "choices": [
+            "The job requires strong communication skills, managing time effectively, and to work independently.",
+            "She enjoys swimming, hiking, and to ride her bike.",
+            "He is known for being punctual, responsible, and hardworking.",
+            "We need to clean the house, buying groceries, and cook dinner."
         ],
-        "correct_answer_index": 0,
-        "explanation": "DNA is double-stranded and forms a helical structure, while RNA is typically single-stranded."
+        "correctAnswerIndex": 2,
+        "explanation": "'He is known for being punctual, responsible, and hardworking.' uses parallel structure by keeping adjectives in the same form."
     },
     {
-        "question": "What is the role of the small intestine in digestion?",
-        "answer_choices": [
-            "To absorb nutrients and complete chemical digestion.",
-            "To mechanically digest food.",
-            "To detoxify ingested substances.",
-            "To store waste products before excretion."
+        "question": "Which word most nearly matches the meaning of 'ambiguous'?",
+        "choices": [
+            "Clear",
+            "Confusing",
+            "Exact",
+            "Definitive"
         ],
-        "correct_answer_index": 0,
-        "explanation": "The small intestine is responsible for absorbing nutrients from digested food and completing chemical digestion with enzymes."
+        "correctAnswerIndex": 1,
+        "explanation": "'Ambiguous' means unclear or open to more than one interpretation."
     },
     {
-        "question": "Which type of muscle tissue is involuntary and striated?",
-        "answer_choices": [
-            "Skeletal muscle",
-            "Cardiac muscle",
-            "Smooth muscle",
-            "Ligament tissue"
+        "question": "What is the solution to the inequality 2x - 5 > 7?",
+        "choices": [
+            "x > 6",
+            "x < 6",
+            "x > 1",
+            "x < 1"
         ],
-        "correct_answer_index": 1,
-        "explanation": "Cardiac muscle is involuntary and striated, found only in the walls of the heart."
+        "correctAnswerIndex": 0,
+        "explanation": "Add 5 to both sides to get 2x > 12, then divide by 2 to find x > 6."
     },
     {
-        "question": "What is the function of the glomerulus in the nephron?",
-        "answer_choices": [
-            "Reabsorption of water and solutes.",
-            "Filtration of blood to form urine.",
-            "Secretion of waste products into urine.",
-            "Concentration of urine by removing water."
+        "question": "Which of the following best corrects this sentence? 'The team is winning despite of the challenges they faced earlier.'",
+        "choices": [
+            "Replace 'is' with 'was'.",
+            "Replace 'despite of' with 'in spite'.",
+            "Replace 'despite of' with 'despite'.",
+            "No change needed."
         ],
-        "correct_answer_index": 1,
-        "explanation": "The glomerulus filters blood, allowing water and small solutes to pass into the nephron while retaining larger molecules like proteins."
+        "correctAnswerIndex": 2,
+        "explanation": "'Despite' is the correct usage; 'despite of' is not grammatically correct."
     },
     {
-        "question": "What is the role of the hypothalamus in the endocrine system?",
-        "answer_choices": [
-            "To produce insulin for glucose regulation.",
-            "To control the secretion of hormones from the pituitary gland.",
-            "To stimulate calcium release from bones.",
-            "To regulate electrolyte balance in the kidneys."
+        "question": "What is the sum of the angles in a triangle?",
+        "choices": [
+            "90 degrees",
+            "180 degrees",
+            "360 degrees",
+            "270 degrees"
         ],
-        "correct_answer_index": 1,
-        "explanation": "The hypothalamus regulates the pituitary gland's secretion of hormones, playing a central role in maintaining homeostasis."
+        "correctAnswerIndex": 1,
+        "explanation": "The sum of the angles in a triangle is always 180 degrees."
     },
     {
-        "question": "Which macromolecule serves as the main source of energy for cellular activities?",
-        "answer_choices": [
-            "Proteins",
-            "Lipids",
-            "Carbohydrates",
-            "Nucleic acids"
+        "question": "What does the word 'mitigate' most nearly mean in this context? 'The policy was designed to mitigate the risks of data breaches.'",
+        "choices": [
+            "Exacerbate",
+            "Reduce",
+            "Eliminate",
+            "Complicate"
         ],
-        "correct_answer_index": 2,
-        "explanation": "Carbohydrates are the primary energy source for cellular activities, as they are quickly metabolized into glucose."
+        "correctAnswerIndex": 1,
+        "explanation": "'Mitigate' means to reduce the severity or seriousness of something."
     },
     {
-        "question": "What is the difference between an exon and an intron in eukaryotic genes?",
-        "answer_choices": [
-            "Exons are removed during RNA splicing, while introns are retained.",
-            "Exons code for proteins, while introns are non-coding regions.",
-            "Introns are part of the DNA sequence, while exons are not.",
-            "Exons regulate gene expression, while introns do not."
+        "question": "Which of the following sentences uses a colon correctly?",
+        "choices": [
+            "The store offers: fresh fruit, vegetables, and baked goods.",
+            "She only brought three items: her wallet, keys, and phone.",
+            "He asked: 'Can you help me with this?'",
+            "We visited several cities: including Paris, Rome, and Madrid."
         ],
-        "correct_answer_index": 1,
-        "explanation": "Exons are coding regions that are translated into proteins, whereas introns are non-coding regions removed during RNA splicing."
+        "correctAnswerIndex": 1,
+        "explanation": "Colons are used to introduce a list or explanation; 'She only brought three items: her wallet, keys, and phone.' is correct."
     },
     {
-        "question": "What is the role of antidiuretic hormone (ADH) in the body?",
-        "answer_choices": [
-            "To increase water reabsorption in the kidneys.",
-            "To stimulate the release of bile.",
-            "To promote sodium excretion.",
-            "To regulate blood glucose levels."
+        "question": "If x + 3 = 9, what is the value of x?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "correct_answer_index": 0,
-        "explanation": "ADH increases water reabsorption in the kidneys, helping to concentrate urine and maintain fluid balance."
+        "correctAnswerIndex": 3,
+        "explanation": "Subtract 3 from both sides to get x = 6."
     },
     {
-        "question": "What is the function of myoglobin in muscle cells?",
-        "answer_choices": [
-            "To store and release oxygen.",
-            "To transport oxygen in the bloodstream.",
-            "To synthesize ATP during contraction.",
-            "To bind calcium ions for contraction."
+        "question": "Which word most nearly matches the meaning of 'ephemeral'?",
+        "choices": [
+            "Temporary",
+            "Permanent",
+            "Significant",
+            "Unchanging"
         ],
-        "correct_answer_index": 0,
-        "explanation": "Myoglobin stores oxygen in muscle cells, releasing it when needed during muscle contraction."
+        "correctAnswerIndex": 0,
+        "explanation": "'Ephemeral' means lasting for a very short time."
     },
     {
-        "question": "Which type of bond holds the two strands of DNA together?",
-        "answer_choices": [
-            "Ionic bonds",
-            "Covalent bonds",
-            "Hydrogen bonds",
-            "Peptide bonds"
+        "question": "What is the value of y in the equation y/2 = 7?",
+        "choices": [
+            "3.5",
+            "7",
+            "12",
+            "14"
         ],
-        "correct_answer_index": 2,
-        "explanation": "Hydrogen bonds between complementary base pairs hold the two strands of DNA together."
+        "correctAnswerIndex": 3,
+        "explanation": "Multiply both sides by 2 to find y = 14."
     },
     {
-        "question": "What is the main function of the alveoli in the respiratory system?",
-        "answer_choices": [
-            "To humidify inhaled air.",
-            "To exchange oxygen and carbon dioxide with the blood.",
-            "To regulate the pH of blood.",
-            "To trap foreign particles during inhalation."
+        "question": "Which sentence has no grammatical errors?",
+        "choices": [
+            "The cat, who loves to sleep, is laying on the couch.",
+            "Neither of the answers are correct.",
+            "He quickly ran down the stairs and into the garden.",
+            "Everyone brought their own books to the meeting."
         ],
-        "correct_answer_index": 1,
-        "explanation": "Alveoli are tiny air sacs in the lungs where oxygen and carbon dioxide are exchanged with the blood."
+        "correctAnswerIndex": 2,
+        "explanation": "'He quickly ran down the stairs and into the garden.' is grammatically correct."
     },
     {
-        "question": "Which component of the cell membrane contributes most to its fluidity?",
-        "answer_choices": [
-            "Cholesterol",
-            "Phospholipids",
-            "Proteins",
-            "Glycoproteins"
+        "question": "What does the word 'resilient' most nearly mean in this context? 'The community proved to be resilient after the disaster.'",
+        "choices": [
+            "Fragile",
+            "Adaptable",
+            "Resistant",
+            "Recovering"
         ],
-        "correct_answer_index": 0,
-        "explanation": "Cholesterol stabilizes the membrane at high temperatures and prevents it from becoming too rigid at low temperatures, enhancing fluidity."
+        "correctAnswerIndex": 1,
+        "explanation": "'Resilient' means being able to recover quickly from challenges or adversity."
     },
     {
-        "question": "Which organelle is responsible for packaging and modifying proteins for secretion?",
-        "answer_choices": [
-            "Ribosome",
-            "Golgi apparatus",
-            "Endoplasmic reticulum",
-            "Lysosome"
+        "question": "Which is a correct revision of the sentence? 'The car that had been parked for weeks was covered in dust.'",
+        "choices": [
+            "The car, which had been parked for weeks, was covered in dust.",
+            "The car who had been parked for weeks was covered in dust.",
+            "The car what had been parked for weeks was covered in dust.",
+            "The car that had been parked for weeks, it was covered in dust."
         ],
-        "correct_answer_index": 1,
-        "explanation": "The Golgi apparatus modifies, packages, and sorts proteins for secretion or delivery to other cellular locations."
+        "correctAnswerIndex": 0,
+        "explanation": "Using 'which' with appropriate commas creates a clear, correct sentence."
     },
     {
-        "question": "What is the primary neurotransmitter used at neuromuscular junctions?",
-        "answer_choices": [
-            "Dopamine",
-            "Serotonin",
-            "Acetylcholine",
-            "GABA"
+        "question": "What is the slope of a line that passes through the points (1, 2) and (3, 6)?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
         ],
-        "correct_answer_index": 2,
-        "explanation": "Acetylcholine is the neurotransmitter released at neuromuscular junctions to stimulate muscle contraction."
+        "correctAnswerIndex": 0,
+        "explanation": "The slope is calculated as (6 - 2) / (3 - 1) = 4 / 2 = 2."
     },
     {
-        "question": "Which part of the nephron is primarily responsible for reabsorbing glucose and amino acids?",
-        "answer_choices": [
-            "Glomerulus",
-            "Proximal convoluted tubule",
-            "Loop of Henle",
-            "Distal convoluted tubule"
+        "question": "What is the definition of 'ubiquitous'?",
+        "choices": [
+            "Rare",
+            "Everywhere",
+            "Complicated",
+            "Exclusive"
         ],
-        "correct_answer_index": 1,
-        "explanation": "The proximal convoluted tubule reabsorbs nutrients like glucose and amino acids from the filtrate."
+        "correctAnswerIndex": 1,
+        "explanation": "'Ubiquitous' means present or existing everywhere."
     },
     {
-        "question": "Which type of epithelial tissue lines the alveoli of the lungs?",
-        "answer_choices": [
-            "Simple squamous epithelium",
-            "Stratified squamous epithelium",
-            "Simple columnar epithelium",
-            "Pseudostratified epithelium"
+        "question": "Which word best completes the sentence? 'The teacher’s ______ instructions made it easy to understand the assignment.'",
+        "choices": [
+            "ambiguous",
+            "unclear",
+            "explicit",
+            "tentative"
         ],
-        "correct_answer_index": 0,
-        "explanation": "Simple squamous epithelium lines the alveoli to facilitate efficient gas exchange."
+        "correctAnswerIndex": 2,
+        "explanation": "'Explicit' means clear and detailed, making it the best fit for the sentence."
     },
     {
-        "question": "What is the primary function of tRNA during translation?",
-        "answer_choices": [
-            "To synthesize proteins by linking amino acids.",
-            "To carry amino acids to the ribosome.",
-            "To transcribe DNA into RNA.",
-            "To initiate the assembly of ribosomes."
+        "question": "Which word most nearly matches the meaning of 'audacious'?",
+        "choices": [
+            "Timid",
+            "Cautious",
+            "Bold",
+            "Indifferent"
         ],
-        "correct_answer_index": 1,
-        "explanation": "Transfer RNA (tRNA) carries specific amino acids to the ribosome during protein synthesis, matching its anticodon to the mRNA codon."
+        "correctAnswerIndex": 2,
+        "explanation": "'Audacious' means bold, daring, or fearless, often in a surprising way."
     },
     {
-        "question": "Which part of the brain regulates the autonomic nervous system?",
-        "answer_choices": [
-            "Cerebrum",
-            "Cerebellum",
-            "Medulla oblongata",
-            "Hypothalamus"
+        "question": "Which sentence is free of errors?",
+        "choices": [
+            "He don't know where the library is.",
+            "She and I went to the park yesterday.",
+            "Everyone are waiting for the bus to arrive.",
+            "The dogs barks loudly every morning."
         ],
-        "correct_answer_index": 3,
-        "explanation": "The hypothalamus regulates the autonomic nervous system, including functions like body temperature, hunger, and thirst."
+        "correctAnswerIndex": 1,
+        "explanation": "'She and I went to the park yesterday.' is grammatically correct."
     },
     {
-        "question": "Which process in the human body produces lactate as a byproduct?",
-        "answer_choices": [
-            "Oxidative phosphorylation",
-            "Aerobic respiration",
-            "Anaerobic glycolysis",
-            "Beta-oxidation"
+        "question": "If 4x + 3 = 15, what is the value of x?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
         ],
-        "correct_answer_index": 2,
-        "explanation": "Anaerobic glycolysis produces lactate as a byproduct when oxygen is insufficient for aerobic respiration."
+        "correctAnswerIndex": 1,
+        "explanation": "Subtract 3 from both sides to get 4x = 12, then divide by 4 to find x = 3."
     },
     {
-        "question": "Which hormone stimulates the production of red blood cells in bone marrow?",
-        "answer_choices": [
-            "Insulin",
-            "Erythropoietin",
-            "Thyroxine",
-            "Cortisol"
+        "question": "What does the word 'meticulous' most nearly mean?",
+        "choices": [
+            "Careless",
+            "Thorough",
+            "Hasty",
+            "Impartial"
         ],
-        "correct_answer_index": 1,
-        "explanation": "Erythropoietin, secreted by the kidneys, stimulates red blood cell production in response to low oxygen levels."
+        "correctAnswerIndex": 1,
+        "explanation": "'Meticulous' means showing great attention to detail or being very thorough."
     },
     {
-        "question": "What is the role of telomeres in chromosomes?",
-        "answer_choices": [
-            "To encode proteins necessary for cell division.",
-            "To protect the ends of chromosomes from degradation.",
-            "To initiate DNA replication.",
-            "To promote recombination during meiosis."
+        "question": "Which of the following sentences uses 'its' correctly?",
+        "choices": [
+            "Its going to be a great day.",
+            "The dog wagged its tail happily.",
+            "It's tail was wagging enthusiastically.",
+            "Its' collar is bright red."
         ],
-        "correct_answer_index": 1,
-        "explanation": "Telomeres protect the ends of chromosomes from degradation and prevent the loss of genetic information during replication."
+        "correctAnswerIndex": 1,
+        "explanation": "'The dog wagged its tail happily.' correctly uses 'its' as a possessive pronoun."
     },
     {
-        "question": "What type of immunity is provided by vaccines?",
-        "answer_choices": [
-            "Innate immunity",
-            "Active artificial immunity",
-            "Passive natural immunity",
-            "Passive artificial immunity"
+        "question": "Which value of x satisfies the equation 2x - 4 = 10?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
         ],
-        "correct_answer_index": 1,
-        "explanation": "Vaccines stimulate the immune system to develop active artificial immunity by producing memory cells."
+        "correctAnswerIndex": 3,
+        "explanation": "Add 4 to both sides to get 2x = 14, then divide by 2 to find x = 8."
     },
     {
-        "question": "Which phase of mitosis involves the chromosomes aligning at the equatorial plate?",
-        "answer_choices": [
-            "Prophase",
-            "Metaphase",
-            "Anaphase",
-            "Telophase"
+        "question": "Which word best completes the sentence? 'The novel’s ______ themes resonated deeply with readers of all ages.'",
+        "choices": [
+            "ambiguous",
+            "universal",
+            "esoteric",
+            "tenuous"
         ],
-        "correct_answer_index": 1,
-        "explanation": "During metaphase, chromosomes align at the equatorial plate, preparing for separation."
+        "correctAnswerIndex": 1,
+        "explanation": "'Universal' means applicable to all, making it the best fit for the sentence."
     },
     {
-        "question": "Which organ produces bile for digestion?",
-        "answer_choices": [
-            "Stomach",
-            "Gallbladder",
-            "Liver",
-            "Pancreas"
+        "question": "Which sentence demonstrates correct subject-verb agreement?",
+        "choices": [
+            "The team are excited about their victory.",
+            "Each of the students have completed their projects.",
+            "Neither of the options was appealing to me.",
+            "The group of athletes were practicing in the field."
         ],
-        "correct_answer_index": 2,
-        "explanation": "The liver produces bile, which is stored in the gallbladder and used to emulsify fats during digestion."
+        "correctAnswerIndex": 2,
+        "explanation": "'Neither of the options was appealing to me.' uses correct singular agreement."
     },
     {
-        "question": "What is the function of ligaments in the skeletal system?",
-        "answer_choices": [
-            "To connect bones to muscles.",
-            "To connect bones to other bones.",
-            "To produce red blood cells.",
-            "To store calcium and phosphorus."
+        "question": "What is the solution to the inequality 5x - 3 < 12?",
+        "choices": [
+            "x < 3",
+            "x > 3",
+            "x < 5",
+            "x > 5"
         ],
-        "correct_answer_index": 1,
-        "explanation": "Ligaments connect bones to other bones, providing stability to joints."
+        "correctAnswerIndex": 0,
+        "explanation": "Add 3 to both sides to get 5x < 15, then divide by 5 to find x < 3."
     },
     {
-        "question": "What is the primary role of the sinoatrial (SA) node in the heart?",
-        "answer_choices": [
-            "To pump oxygenated blood to the body.",
-            "To regulate blood pressure.",
-            "To act as the natural pacemaker of the heart.",
-            "To initiate the contraction of ventricles."
+        "question": "What does the word 'voracious' most nearly mean?",
+        "choices": [
+            "Hungry",
+            "Slow",
+            "Incapable",
+            "Excessive"
         ],
-        "correct_answer_index": 2,
-        "explanation": "The sinoatrial (SA) node is the heart's natural pacemaker, initiating electrical impulses that set the rhythm of the heartbeat."
+        "correctAnswerIndex": 0,
+        "explanation": "'Voracious' means having a great appetite, especially for food or knowledge."
+    },
+    {
+        "question": "What is the slope of a line passing through the points (2, 3) and (4, 7)?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "The slope is (7 - 3) / (4 - 2) = 4 / 2 = 2."
+    },
+    {
+        "question": "Which word most closely matches the meaning of 'antithesis'?",
+        "choices": [
+            "Similarity",
+            "Contrast",
+            "Summary",
+            "Explanation"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Antithesis' means a direct contrast or opposition."
+    },
+    {
+        "question": "Which word best completes the sentence? 'The scientist’s discovery was so ______ that it revolutionized the field of genetics.'",
+        "choices": [
+            "trivial",
+            "insignificant",
+            "profound",
+            "complicated"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Profound' means very significant or impactful, making it the best choice for the sentence."
+    },
+    {
+        "question": "Which sentence uses the correct form of 'affect' or 'effect'?",
+        "choices": [
+            "The movie had a lasting affect on him.",
+            "The policy changes will effect the entire community.",
+            "The storm will affect the coastal regions significantly.",
+            "Her smile had a positive affect on the group."
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "'Affect' is used as a verb to describe influence; 'The storm will affect the coastal regions significantly.' is correct."
+    },
+    {
+        "question": "Which of the following is equivalent to 3(x + 4)?",
+        "choices": [
+            "3x + 4",
+            "3x + 12",
+            "3x + 7",
+            "3x - 4"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Distribute 3 to both terms in the parentheses to get 3x + 12."
+    },
+    {
+        "question": "What does the word 'candid' most nearly mean?",
+        "choices": [
+            "Deceptive",
+            "Honest",
+            "Reserved",
+            "Indirect"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Candid' means truthful and straightforward."
+    },
+    {
+        "question": "What is the solution to the equation x/4 = 8?",
+        "choices": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Multiply both sides by 4 to find x = 32."
+    },
+    {
+        "question": "Which word best completes the sentence? 'The debate became so ______ that the moderator had to intervene.'",
+        "choices": [
+            "congenial",
+            "hostile",
+            "apathetic",
+            "amicable"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Hostile' means unfriendly or aggressive, making it the best fit for the sentence."
+    },
+    {
+        "question": "What does the word 'nuance' most nearly mean?",
+        "choices": [
+            "Simplicity",
+            "Subtlety",
+            "Clarity",
+            "Intensity"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "'Nuance' refers to a subtle or slight distinction or variation."
+    },
+    {
+        "question": "Which of the following uses the semicolon correctly?",
+        "choices": [
+            "We visited several cities; including Paris, Rome, and Madrid.",
+            "The sky was clear; we decided to go hiking.",
+            "He brought his wallet; keys and phone.",
+            "I saw a bird; that flew away quickly."
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Semicolons connect two independent clauses; 'The sky was clear; we decided to go hiking.' is correct."
     }
 ]
 
